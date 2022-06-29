@@ -1,0 +1,2 @@
+# This software is multi-threaded run as many threads as you want to make the checking process faster. Multithreading require proxies to avoid ratelimits. Do NOT use many threads if you are not using proxy.
+threads = 10
